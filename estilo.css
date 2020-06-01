@@ -202,7 +202,7 @@ a:hover {
 }
 
 .card {
-  color: black;
+  color: whitesmoke;
   position: relative;
   transform-style: preserve-3d;
   transition: transform 1s;
@@ -222,7 +222,7 @@ a:hover {
 }
 
 .card-back {
-  background-color: white;
+  background-image: url(./img/fundo2.png);
   height: 180px;
   width: 100%;
   text-align: center;
